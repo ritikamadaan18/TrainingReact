@@ -1,0 +1,91 @@
+{
+  "info": {
+    "id": "656392",
+    "name": "Subway",
+    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/1/21/ccb97e93-5b1a-4e18-9dd7-3f635e2d5e94_656392.JPG",
+    "locality": "1st Block",
+    "areaName": "Koramangala",
+    "costForTwo": "₹350 for two",
+    "cuisines": ["sandwich", "Salads", "wrap", "Healthy Food"],
+    "avgRating": 4.3,
+    "parentId": "2",
+    "avgRatingString": "4.3",
+    "totalRatingsString": "3.4K+",
+    "sla": {
+      "deliveryTime": 18,
+      "lastMileTravel": 1.7,
+      "serviceability": "SERVICEABLE",
+      "slaString": "15-20 mins",
+      "lastMileTravelString": "1.7 km",
+      "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+      "nextCloseTime": "2025-02-24 03:00:00",
+      "opened": true
+    },
+    "badges": {
+      "imageBadges": [
+        {
+          "imageId": "bolt/Bolt%20Listing%20badge@3x.png",
+          "description": "bolt!"
+        },
+        {
+          "imageId": "Rxawards/_CATEGORY-Sandwiches.png",
+          "description": "Delivery!"
+        }
+      ]
+    },
+    "isOpen": true,
+    "type": "F",
+    "badgesV2": {
+      "entityBadges": {
+        "imageBased": {
+          "badgeObject": [
+            {
+              "attributes": {
+                "description": "bolt!",
+                "imageId": "bolt/Bolt%20Listing%20badge@3x.png"
+              }
+            },
+            {
+              "attributes": {
+                "description": "Delivery!",
+                "imageId": "Rxawards/_CATEGORY-Sandwiches.png"
+              }
+            }
+          ]
+        },
+        "textBased": {},
+        "textExtendedBadges": {}
+      }
+    },
+    "aggregatedDiscountInfoV3": {
+      "header": "₹200 OFF",
+      "subHeader": "ABOVE ₹399",
+      "discountTag": "FLAT DEAL"
+    },
+    "differentiatedUi": {
+      "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+      "differentiatedUiMediaDetails": {
+        "lottie": {},
+        "video": {}
+      }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {},
+    "externalRatings": {
+      "aggregatedRating": {
+        "rating": "--"
+      }
+    },
+    "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+  },
+  "analytics": {
+    "context": "seo-data-1b272343-164b-4562-addf-a7de29f2c6ca"
+  },
+  "cta": {
+    "link": "https://www.swiggy.com/city/bangalore/subway-1st-block-koramangala-rest656392",
+    "type": "WEBLINK"
+  }
+}
